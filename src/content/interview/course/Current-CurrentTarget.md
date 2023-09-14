@@ -5,7 +5,7 @@ pubDate: "Jul 08 2022"
 heroImage: "/blog-placeholder-3.jpg"
 ---
 
-\ - ![Alt text](image.png)
+\ - ![Alt text](./image.png)
 
 ### Capturing => Target => Bubbling
 
@@ -19,7 +19,7 @@ heroImage: "/blog-placeholder-3.jpg"
 
 - CurrentTarget is element to which the event is attached. Never change noting.
 - Target is element to which have activated event. It dependent exactly where user click.
-  ![Alt text](event-binding.png)
+  ![Alt text](./event-binding.png)
 
 # Bubbling
 
