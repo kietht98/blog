@@ -2,7 +2,7 @@
 title: "Passionate"
 description: "Parcel combines a great out-of-the-box development experience"
 pubDate: "Jul 08 2022"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/about-me.webp"
 ---
 
 Passionate and experienced front-end web developer with 4+ years of experience building responsive web designs and mobile apps. Proficient in CSS and JavaScript frameworks, with a strong understanding of UX and user psychology.

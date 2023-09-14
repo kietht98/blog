@@ -2,7 +2,7 @@
 title: "Using nvm to change Node.JS version"
 description: "Parcel combines a great out-of-the-box development experience"
 pubDate: "Jul 08 2022"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/install-nvm.png"
 ---
 
 Using nvm to change Node.JS version

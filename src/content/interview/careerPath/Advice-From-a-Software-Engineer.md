@@ -2,10 +2,8 @@
 title: "Advice From a Software Engineer With 8 Years of Experience"
 description: "Practical tips for those who want to advance in their careers"
 pubDate: "Jul 08 2022"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/advance.png"
 ---
-
-### Advice From a Software Engineer With 8 Years of Experience
 
 - Practical tips for those who want to advance in their careers
 
@@ -27,8 +25,6 @@ heroImage: "/blog-placeholder-3.jpg"
   - Do Not Let Your Emotions Take Over in Front of the Team
   - Dip a Foot Into the Hiring Market
 - End Thoughts.
-
-===
 
 In the beginning, I was part of the frontend team. The tech organisation was split between backend and frontend developers. At that time, we were no more than 30 engineers. When our new CTO arrived a year later, he introduced an organisation based on feature teams: the Spotify Model. Although there was some friction at the start (people don’t like change), this reorganisation definitely turned out to be for the better.
 
@@ -100,7 +96,7 @@ If you can, take a look at the other projects and teams at your company. Read th
 
 Notice that you do not have to produce anything here, compared to the previous advice regarding the comfort zone. All you need is to be curious, read documentation from the other teams, and ask questions. You might meet people from other teams along the way, and you may discover projects that you really want to work on.
 
-# Join the on-call team
+### Join the on-call team
 
 This one may feel controversial, and it may not even be possible at your company. Of course, you should consider this advice only if your company has a healthy on-call environment (see On-call Compensation for Software Engineers).
 
@@ -119,7 +115,7 @@ At my first company, I joined the on-call team (who was responsible for all the 
 
 At my second and current company, I joined the on-call team (who is responsible for the services of a single product) two to three months after my first day. For now, I am only intervening during business hours, but eventually, I will be able to respond to pages during the night and on the weekends.
 
-# Change teams
+### Change teams
 
 I can see three reasons why you would move to another team:
 
@@ -145,7 +141,7 @@ That being said, I think changing teams should not happen too frequently. I stay
 
 If you feel like your situation fits in one of these three reasons, I would advise you to consider changing, but only if you stayed at least one full year with your current team. I think one year is a reasonable amount of time to feel if you belong with your current team or not. If you cannot wait for a whole year, then it means the situation is quite critical, and I would suggest involving your manager, and/or their manager to address the urgency.
 
-# Write blog posts
+### Write blog posts
 
 This one should just be “Write,” but it felt too short. Writing is one of the most important skills a developer should have. A lot of our daily work involves writing: code, messages, emails, documentation, RFCs, meeting notes, incident post-mortems, etc.
 
@@ -164,9 +160,9 @@ I started this journey by publishing on my first company’s engineering blog: T
 
 Then, in March 2021, I started writing blog posts on Dev.to, and I continue doing so occasionally. I also posted an article on HackerNoon, but I didn’t really like their editing on the title, and I felt like Dev.to would be my main blog medium, at least for now.
 
-# Things I Wish I Had Done Differently
+### Things I Wish I Had Done Differently
 
-## Be careful when introducing new things to the team
+### Be careful when introducing new things to the team
 
 This is especially true the more senior you become, though even juniors should feel capable of introducing new things to the team, be it libraries, languages, paradigms, ways of working together, and so on. As a junior, you will be more easily challenged by the senior folks on your team. However, the more senior you become, the easier it gets to convince people, especially juniors, to be onboard.
 
@@ -213,7 +209,7 @@ Whether you are an individual contributor (aka IC) or a manager, if a senior tea
 
 If you are in the same position as I was, I encourage you to think twice before committing. Is this really a pragmatic solution? Are you sure the scope is well defined and rabbit holes well identified? Are you doing this for the good of the team or because you like it? Will the team be comfortable with it when you aren’t around to help them?
 
-## Do not let your emotions take over in front of the team
+### Do not let your emotions take over in front of the team
 
 I’ve had moments where I strongly disagreed with whatever a manager or coworker was sharing with the team during a meeting. I let everyone in the room know it bothered me, thus starting a “conflict” publicly.
 

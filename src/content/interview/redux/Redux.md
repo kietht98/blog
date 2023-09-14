@@ -5,7 +5,7 @@ pubDate: "Jul 08 2022"
 heroImage: "/redux.jpeg"
 ---
 
-\ # What is Redux?
+### What is Redux?
 
 - is an open source library made using the scripting language Javascript.
 - primary use lies managing and centralizing (tập trung hóa) application state and

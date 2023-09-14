@@ -2,10 +2,10 @@
 title: "FunctionBinding"
 description: "The bind() method of Function instances"
 pubDate: "Jul 08 2022"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/bindingjs.jpg"
 ---
 
-\ ### Function Binding
+##### Function Binding
 
 # Losing this
 

@@ -5,7 +5,7 @@ pubDate: "Jul 08 2022"
 heroImage: "/lifecycle.webp"
 ---
 
-\ # Life cycle
+### Life cycle
 
 - A component mounts when it’s added to the screen.
 - A component updates when it receives new props or state, usually in response to an interaction.

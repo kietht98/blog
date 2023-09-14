@@ -3,10 +3,10 @@ title: "Why cannot stop foreach?"
 description: "cannot stop foreach
   because there, foreach is not technically in a loop."
 pubDate: "Jul 08 2022"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/break-from-foreach-in-javascript.png"
 ---
 
-\ # Foreach
+### Foreach
 
 - compiler foreach:
 

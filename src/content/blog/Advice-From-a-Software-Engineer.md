@@ -2,7 +2,7 @@
 title: "Advice From a Software Engineer With 8 Years of Experience"
 description: "Practical tips for those who want to advance in their careers"
 pubDate: "Jul 08 2022"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/advance.jpg"
 ---
 
 ### Advice From a Software Engineer With 8 Years of Experience

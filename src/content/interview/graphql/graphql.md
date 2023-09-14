@@ -2,15 +2,15 @@
 title: "Graphql"
 description: "is an open source query language and runtime APis."
 pubDate: "Jul 08 2022"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/graphql.png"
 ---
 
-\ # Graphql
+### Graphql
 
 - is an open source query language and runtime APis. Its provides a more efficient and flexible alternative to traditional RESTful architectures.
 - provides a complete and understandable description of the data in your API, gives clients the power to ask for exactly what they need and nothing more, makes it easier to evolve APIs over time, and enables powerful developer tools.
 
-# The main advantage of using GraphQL
+### The main advantage of using GraphQL
 
 - **Efficient data fetching**:
   - Client can request only the data they need, avoiding over-fetching or under-fetching scenarios common in REST APis.

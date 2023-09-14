@@ -2,7 +2,7 @@
 title: "CommonJS vs EsModules"
 description: "CommonJS vs EsModules"
 pubDate: "Jul 08 2022"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/cjs.png"
 ---
 
 | \              | Functionality                  | CommonJS (Microsoft)                       | ES Module (Google) |
